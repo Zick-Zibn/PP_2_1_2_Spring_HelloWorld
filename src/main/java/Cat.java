@@ -1,6 +1,6 @@
 public class Cat {
 
-    String name;
+    private String name;
 
     public Cat() {
 
